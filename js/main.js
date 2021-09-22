@@ -70,7 +70,6 @@ jQuery(document).ready(function($) {
             mensaje: $("#mensaje").val(),
            
         });
-        
 
         $.ajax({
             url: "https://andresriascos.pw/api/v1/contactar",
