@@ -1,1 +1,1 @@
-<?php require_once("index.html","contacto.html") ?>
+<?php require_once("index.html") ?>
