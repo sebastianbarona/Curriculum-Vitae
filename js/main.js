@@ -59,7 +59,6 @@ jQuery(document).ready(function($) {
         $('#post_contacto').on("click", postContacto);
     });
     
-
     function postContacto(){
         var receptor = 'juancaba229@gmail.com'
 
